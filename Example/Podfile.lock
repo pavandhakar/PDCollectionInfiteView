@@ -1,0 +1,16 @@
+PODS:
+  - PDCollectionInfiteView (0.1.0)
+
+DEPENDENCIES:
+  - PDCollectionInfiteView (from `../`)
+
+EXTERNAL SOURCES:
+  PDCollectionInfiteView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PDCollectionInfiteView: 858778369badfaf97bb7b04b20a1d8dac2e56d33
+
+PODFILE CHECKSUM: eae40f04a2aa89bda9400cf029f3cb8ee6e23b7f
+
+COCOAPODS: 1.12.1

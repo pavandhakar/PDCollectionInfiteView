@@ -1,0 +1,6 @@
+framework module PDCollectionInfiteView {
+  umbrella header "PDCollectionInfiteView-umbrella.h"
+
+  export *
+  module * { export * }
+}

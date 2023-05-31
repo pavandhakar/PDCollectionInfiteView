@@ -1,0 +1,24 @@
+{
+  "name": "PDCollectionInfiteView",
+  "version": "0.1.0",
+  "summary": "PDCollectionInfiteView is use for infinite scroll collection view.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Pavan/PDCollectionInfiteView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Pavan": "pavan.dhakar@badabusiness.com"
+  },
+  "source": {
+    "git": "https://github.com/Pavan/PDCollectionInfiteView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PDCollectionInfiteView/Classes/**/*",
+  "swift_versions": "4.0",
+  "swift_version": "4.0"
+}
